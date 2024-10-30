@@ -250,3 +250,5 @@ ngram_wimbd
 /data
 /figures
 /wandb
+
+*.yml
